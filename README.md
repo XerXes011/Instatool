@@ -1,4 +1,4 @@
-# ![Image](Instagram2016_white-(64px).png) Instagram NODE JS API V1
+# ![Image](Instagram2016_white-(64px).png) Instagram by XerXes
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
