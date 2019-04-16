@@ -5,6 +5,8 @@
 	* git clone https://github.com/XerXes011/instatool
 	* cd instatools
 	* unzip node_modules.zip
+	* pkg install nodejs-lts
+	* npm install instagram-private-api
 	* ls
 	* Then select the tool you want to use!
 	* node filename
